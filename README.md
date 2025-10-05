@@ -24,8 +24,8 @@ A GPU-accelerated 3D globe viewer with interactive Earth imagery using NASA Eart
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/terra-tools.git
-   cd terra-tools
+   git clone https://github.com/ButaFor/NASA_SPACE_APPS.git
+   cd NASA_SPACE_APPS
    ```
 
 2. **Install dependencies:**
@@ -153,3 +153,4 @@ For issues and questions:
 ---
 
 **Note**: This application requires a modern graphics card with OpenGL support. Performance may vary depending on your hardware configuration.
+
