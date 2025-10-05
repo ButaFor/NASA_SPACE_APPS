@@ -1,0 +1,7 @@
+moderngl
+glfw
+numpy
+Pillow
+requests
+tkcalendar>=1.6.1
+PySide6>=6.5
